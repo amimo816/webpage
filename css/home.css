@@ -3,16 +3,16 @@ header {
 }
 
 .about {
-    background-color: #FFFF00; /* Yellow */
+    background-color: #808080; /* Yellow */
 }
 
 .about-text {
-    color: rgba(255,0,255,1);
+    color: rgba(255,255,255,1);
 }
 
 .about-heading {
     margin-top: 0;
-    color: rgba(0,255,255,1);
+    color: rgba(255,255,255,1);
 }
 
 .portfolio-box {
